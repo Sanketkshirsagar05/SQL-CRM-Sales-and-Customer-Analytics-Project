@@ -1,0 +1,201 @@
+UserID,DepartmentID,FirstName,LastName,FullName,Email,Phone,JobTitle,Salary,HireDate,Status,ManagerID
+USR0001,DEP012,Benjamin,Brown,Benjamin Brown,benjamin.brown1@crmcompany.com,9362950628,QA Engineer,108598,2021-01-31,Active,
+USR0002,DEP005,Joseph,Jones,Joseph Jones,joseph.jones2@crmcompany.com,9553035110,HR Executive,40697,2024-08-15,Active,USR0032
+USR0003,DEP009,Michael,Smith,Michael Smith,michael.smith3@crmcompany.com,9642621108,Procurement Executive,49328,2020-08-10,Active,USR0044
+USR0004,DEP006,Lucas,Smith,Lucas Smith,lucas.smith4@crmcompany.com,9550455977,IT Manager,103031,2024-02-11,Active,
+USR0005,DEP013,Joseph,White,Joseph White,joseph.white5@crmcompany.com,9849621470,Data Scientist,35425,2019-10-16,Active,
+USR0006,DEP006,Ava,Taylor,Ava Taylor,ava.taylor6@crmcompany.com,9919795579,Data Engineer,70189,2020-05-31,Active,USR0004
+USR0007,DEP005,Emma,Brown,Emma Brown,emma.brown7@crmcompany.com,9485451171,HR Executive,59898,2019-02-01,Active,USR0032
+USR0008,DEP012,Olivia,Lewis,Olivia Lewis,olivia.lewis8@crmcompany.com,9675770529,QA Lead,37847,2023-02-25,Active,
+USR0009,DEP007,James,Thomas,James Thomas,james.thomas9@crmcompany.com,9719927151,Operations Executive,54213,2022-01-21,Active,USR0037
+USR0010,DEP002,Daniel,Williams,Daniel Williams,daniel.williams10@crmcompany.com,9185675980,Marketing Executive,49935,2021-03-31,Active,USR0018
+USR0011,DEP010,Joseph,Brown,Joseph Brown,joseph.brown11@crmcompany.com,9782560971,Business Development Manager,108217,2023-02-01,Active,
+USR0012,DEP015,Olivia,Garcia,Olivia Garcia,olivia.garcia12@crmcompany.com,9819595113,CFO,226566,2020-05-08,Active,
+USR0013,DEP010,Sarah,Williams,Sarah Williams,sarah.williams13@crmcompany.com,9596348124,Business Development Executive,51043,2019-11-01,Active,USR0011
+USR0014,DEP005,Sophia,Wilson,Sophia Wilson,sophia.wilson14@crmcompany.com,9345938494,HR Executive,56252,2018-08-18,Active,USR0032
+USR0015,DEP013,Michael,Taylor,Michael Taylor,michael.taylor15@crmcompany.com,9326541099,Data Scientist,52546,2018-09-29,Active,
+USR0016,DEP006,Ethan,Taylor,Ethan Taylor,ethan.taylor16@crmcompany.com,9524806516,Software Engineer,102954,2023-08-07,Active,USR0004
+USR0017,DEP015,Benjamin,White,Benjamin White,benjamin.white17@crmcompany.com,9364814270,CTO,214718,2019-07-26,Active,USR0012
+USR0018,DEP002,Jack,Thompson,Jack Thompson,jack.thompson18@crmcompany.com,9560027313,Marketing Manager,138956,2024-07-22,Active,
+USR0019,DEP010,Ethan,Thomas,Ethan Thomas,ethan.thomas19@crmcompany.com,9647099690,Business Development Manager,104373,2019-07-21,Active,USR0011
+USR0020,DEP015,Charlotte,Williams,Charlotte Williams,charlotte.williams20@crmcompany.com,9264112119,CEO,292866,2019-03-26,Active,USR0012
+USR0021,DEP012,Benjamin,Garcia,Benjamin Garcia,benjamin.garcia21@crmcompany.com,9509760584,QA Lead,39163,2022-04-26,Active,
+USR0022,DEP008,Lucas,White,Lucas White,lucas.white22@crmcompany.com,9830448745,Legal Manager,126256,2018-02-17,Active,
+USR0023,DEP004,Jack,Brown,Jack Brown,jack.brown23@crmcompany.com,9219778234,Finance Manager,140370,2021-10-25,Active,
+USR0024,DEP001,Emily,Jackson,Emily Jackson,emily.jackson24@crmcompany.com,9875340444,Sales Executive,64735,2018-01-14,Active,USR0103
+USR0025,DEP010,Jack,Wilson,Jack Wilson,jack.wilson25@crmcompany.com,9771410971,Business Development Executive,68271,2019-03-12,Active,USR0011
+USR0026,DEP015,Emily,Martin,Emily Martin,emily.martin26@crmcompany.com,9918739736,CTO,200032,2022-03-12,Active,USR0012
+USR0027,DEP009,William,Thompson,William Thompson,william.thompson27@crmcompany.com,9120912992,Procurement Executive,56243,2023-06-25,Active,USR0044
+USR0028,DEP013,James,Anderson,James Anderson,james.anderson28@crmcompany.com,9358633898,Data Scientist,50692,2018-08-26,Active,
+USR0029,DEP003,Ethan,Williams,Ethan Williams,ethan.williams29@crmcompany.com,9976198296,Support Engineer,107966,2023-06-14,Active,USR0048
+USR0030,DEP012,David,Thompson,David Thompson,david.thompson30@crmcompany.com,9690347116,QA Engineer,68414,2023-05-01,Active,
+USR0031,DEP012,William,Wilson,William Wilson,william.wilson31@crmcompany.com,9910959828,QA Lead,48880,2024-01-18,Active,
+USR0032,DEP005,Jack,Miller,Jack Miller,jack.miller32@crmcompany.com,9570406376,HR Manager,116148,2022-03-10,Active,
+USR0033,DEP003,Noah,White,Noah White,noah.white33@crmcompany.com,9168747287,Support Engineer,76246,2020-07-09,Active,USR0048
+USR0034,DEP009,Emma,Smith,Emma Smith,emma.smith34@crmcompany.com,9176228245,Procurement Executive,49432,2018-01-30,Active,USR0044
+USR0035,DEP011,Henry,Johnson,Henry Johnson,henry.johnson35@crmcompany.com,9454794895,Admin Executive,39417,2018-05-09,Active,
+USR0036,DEP006,David,Martin,David Martin,david.martin36@crmcompany.com,9330035022,Software Engineer,78250,2023-06-12,Active,USR0004
+USR0037,DEP007,Liam,Jones,Liam Jones,liam.jones37@crmcompany.com,9967043303,Operations Manager,105925,2023-04-22,Active,
+USR0038,DEP011,Ava,Miller,Ava Miller,ava.miller38@crmcompany.com,9480424119,Admin Executive,41352,2022-11-01,Active,
+USR0039,DEP001,Ava,Jackson,Ava Jackson,ava.jackson39@crmcompany.com,9165082363,Senior Sales Executive,38550,2019-02-08,Active,USR0103
+USR0040,DEP002,Sophia,Taylor,Sophia Taylor,sophia.taylor40@crmcompany.com,9304235259,Marketing Executive,51295,2020-02-24,Active,USR0018
+USR0041,DEP014,Liam,White,Liam White,liam.white41@crmcompany.com,9399085574,Product Manager,117648,2020-01-22,Active,
+USR0042,DEP006,Mia,Davis,Mia Davis,mia.davis42@crmcompany.com,9205128697,Software Engineer,89041,2024-03-04,Active,USR0004
+USR0043,DEP010,Michael,Thompson,Michael Thompson,michael.thompson43@crmcompany.com,9278575192,Business Development Executive,41112,2020-08-26,Active,USR0011
+USR0044,DEP009,Ava,Harris,Ava Harris,ava.harris44@crmcompany.com,9162959284,Procurement Manager,104008,2022-07-01,Active,
+USR0045,DEP004,William,Thomas,William Thomas,william.thomas45@crmcompany.com,9941889393,Finance Executive,60586,2020-12-22,Active,USR0023
+USR0046,DEP012,Mia,Moore,Mia Moore,mia.moore46@crmcompany.com,9303901283,QA Lead,66894,2019-09-27,Active,
+USR0047,DEP004,Emily,Miller,Emily Miller,emily.miller47@crmcompany.com,9161380746,Finance Executive,38994,2021-07-08,Active,USR0023
+USR0048,DEP003,Michael,Clark,Michael Clark,michael.clark48@crmcompany.com,9269042105,Support Manager,122954,2023-12-16,Active,
+USR0049,DEP004,Michael,Martin,Michael Martin,michael.martin49@crmcompany.com,9738914080,Finance Executive,47178,2018-10-08,Active,USR0023
+USR0050,DEP015,David,Davis,David Davis,david.davis50@crmcompany.com,9364371717,COO,195713,2024-05-22,Active,USR0012
+USR0051,DEP010,Ethan,Lewis,Ethan Lewis,ethan.lewis51@crmcompany.com,9805849060,Business Development Executive,40372,2022-09-14,Active,USR0011
+USR0052,DEP010,Ethan,Clark,Ethan Clark,ethan.clark52@crmcompany.com,9819112790,Business Development Manager,107089,2020-04-16,Active,USR0011
+USR0053,DEP013,Henry,Taylor,Henry Taylor,henry.taylor53@crmcompany.com,9240529481,Research Engineer,77407,2022-06-10,Active,
+USR0054,DEP005,Alexander,Moore,Alexander Moore,alexander.moore54@crmcompany.com,9110002396,HR Manager,110720,2018-10-25,Active,USR0032
+USR0055,DEP011,Mia,Lewis,Mia Lewis,mia.lewis55@crmcompany.com,9328872698,Admin Executive,39801,2024-01-12,Active,
+USR0056,DEP014,Noah,Wilson,Noah Wilson,noah.wilson56@crmcompany.com,9362298393,Product Manager,112872,2018-10-09,Active,USR0041
+USR0057,DEP008,Olivia,Moore,Olivia Moore,olivia.moore57@crmcompany.com,9855420240,Legal Executive,63716,2024-02-04,Active,USR0022
+USR0058,DEP010,Emily,Lewis,Emily Lewis,emily.lewis58@crmcompany.com,9244193987,Business Development Executive,54620,2019-03-01,Active,USR0011
+USR0059,DEP009,Sarah,Brown,Sarah Brown,sarah.brown59@crmcompany.com,9402533494,Procurement Executive,45187,2021-01-20,Active,USR0044
+USR0060,DEP004,Lucas,Miller,Lucas Miller,lucas.miller60@crmcompany.com,9642678844,Finance Manager,103342,2020-12-17,Active,USR0023
+USR0061,DEP003,Charlotte,Wilson,Charlotte Wilson,charlotte.wilson61@crmcompany.com,9990505735,Support Engineer,66048,2022-10-01,Active,USR0048
+USR0062,DEP012,Sarah,Johnson,Sarah Johnson,sarah.johnson62@crmcompany.com,9784095277,QA Engineer,81859,2019-06-20,Active,
+USR0063,DEP007,Sarah,Garcia,Sarah Garcia,sarah.garcia63@crmcompany.com,9702269164,Operations Manager,126154,2022-10-18,Active,USR0037
+USR0064,DEP012,John,Brown,John Brown,john.brown64@crmcompany.com,9685823118,QA Engineer,105286,2019-09-03,Active,
+USR0065,DEP011,Michael,Anderson,Michael Anderson,michael.anderson65@crmcompany.com,9144913399,Admin Executive,63166,2019-06-07,Active,
+USR0066,DEP004,Emily,Anderson,Emily Anderson,emily.anderson66@crmcompany.com,9832363533,Finance Executive,58449,2020-05-10,Active,USR0023
+USR0067,DEP004,Joseph,Brown,Joseph Brown,joseph.brown67@crmcompany.com,9536344399,Finance Manager,141125,2024-04-12,Active,USR0023
+USR0068,DEP001,Lucas,Jones,Lucas Jones,lucas.jones68@crmcompany.com,9542697755,Sales Executive,45649,2019-12-27,Active,USR0103
+USR0069,DEP008,John,Garcia,John Garcia,john.garcia69@crmcompany.com,9961393416,Legal Manager,141274,2022-08-14,Active,USR0022
+USR0070,DEP009,Alexander,Davis,Alexander Davis,alexander.davis70@crmcompany.com,9510751046,Procurement Manager,100433,2019-03-19,Active,USR0044
+USR0071,DEP011,Michael,Harris,Michael Harris,michael.harris71@crmcompany.com,9475442872,Admin Executive,48079,2023-03-01,Active,
+USR0072,DEP001,Emily,Davis,Emily Davis,emily.davis72@crmcompany.com,9527849588,Sales Executive,36550,2020-03-02,Active,USR0103
+USR0073,DEP010,Emma,Wilson,Emma Wilson,emma.wilson73@crmcompany.com,9788785773,Business Development Executive,53292,2021-12-09,Active,USR0011
+USR0074,DEP012,Noah,Thomas,Noah Thomas,noah.thomas74@crmcompany.com,9380477683,QA Lead,36808,2019-04-18,Active,
+USR0075,DEP002,William,Clark,William Clark,william.clark75@crmcompany.com,9740563507,Marketing Manager,92507,2019-03-21,Active,USR0018
+USR0076,DEP006,Ava,Anderson,Ava Anderson,ava.anderson76@crmcompany.com,9568574364,IT Manager,141539,2021-07-08,Active,USR0004
+USR0077,DEP004,Lucas,Martin,Lucas Martin,lucas.martin77@crmcompany.com,9304095531,Finance Executive,60244,2024-06-19,Active,USR0023
+USR0078,DEP015,Sarah,Johnson,Sarah Johnson,sarah.johnson78@crmcompany.com,9965984448,COO,180221,2023-10-31,Active,USR0012
+USR0079,DEP013,Liam,Miller,Liam Miller,liam.miller79@crmcompany.com,9813219781,Data Scientist,63265,2018-10-14,Active,
+USR0080,DEP015,Emma,Lewis,Emma Lewis,emma.lewis80@crmcompany.com,9872830248,CFO,266951,2019-05-26,Active,USR0012
+USR0081,DEP008,Emily,Martin,Emily Martin,emily.martin81@crmcompany.com,9450236225,Legal Manager,133705,2022-07-31,Active,USR0022
+USR0082,DEP010,Sophia,Moore,Sophia Moore,sophia.moore82@crmcompany.com,9813962536,Business Development Executive,47572,2022-09-19,Active,USR0011
+USR0083,DEP005,Sophia,Garcia,Sophia Garcia,sophia.garcia83@crmcompany.com,9995205588,HR Manager,116612,2024-02-23,Active,USR0032
+USR0084,DEP015,John,Moore,John Moore,john.moore84@crmcompany.com,9943702118,CFO,207549,2022-10-27,Active,USR0012
+USR0085,DEP015,Ethan,Lewis,Ethan Lewis,ethan.lewis85@crmcompany.com,9574765466,CFO,240946,2022-12-15,Active,USR0012
+USR0086,DEP015,Alexander,Miller,Alexander Miller,alexander.miller86@crmcompany.com,9807435606,COO,284036,2019-11-27,Active,USR0012
+USR0087,DEP013,David,Moore,David Moore,david.moore87@crmcompany.com,9822408848,Data Scientist,41120,2020-08-20,Active,
+USR0088,DEP011,Emily,Davis,Emily Davis,emily.davis88@crmcompany.com,9149621604,Admin Executive,44656,2018-04-11,Active,
+USR0089,DEP011,Joseph,Harris,Joseph Harris,joseph.harris89@crmcompany.com,9776205431,Admin Executive,64846,2022-08-25,Active,
+USR0090,DEP011,Ethan,Miller,Ethan Miller,ethan.miller90@crmcompany.com,9361976301,Admin Executive,67399,2022-06-25,Active,
+USR0091,DEP008,Robert,Smith,Robert Smith,robert.smith91@crmcompany.com,9288856883,Legal Executive,62862,2020-06-15,Active,USR0022
+USR0092,DEP013,Henry,Martin,Henry Martin,henry.martin92@crmcompany.com,9367574609,Data Scientist,38291,2024-04-02,Active,
+USR0093,DEP005,James,White,James White,james.white93@crmcompany.com,9700141462,HR Executive,65450,2023-12-16,Active,USR0032
+USR0094,DEP008,Lucas,Taylor,Lucas Taylor,lucas.taylor94@crmcompany.com,9558209399,Legal Manager,130150,2023-08-30,Active,USR0022
+USR0095,DEP013,Liam,White,Liam White,liam.white95@crmcompany.com,9583258726,Research Engineer,108736,2023-04-29,Active,
+USR0096,DEP014,Sarah,Davis,Sarah Davis,sarah.davis96@crmcompany.com,9772966010,Product Analyst,84163,2023-06-08,Active,USR0041
+USR0097,DEP010,Joseph,Wilson,Joseph Wilson,joseph.wilson97@crmcompany.com,9351785565,Business Development Manager,95077,2021-03-16,Active,USR0011
+USR0098,DEP013,Sarah,Taylor,Sarah Taylor,sarah.taylor98@crmcompany.com,9261953189,Data Scientist,40280,2019-07-21,Active,
+USR0099,DEP007,Joseph,Thomas,Joseph Thomas,joseph.thomas99@crmcompany.com,9545461013,Operations Executive,49021,2018-09-21,Active,USR0037
+USR0100,DEP005,Ava,Taylor,Ava Taylor,ava.taylor100@crmcompany.com,9322086735,HR Manager,117248,2018-09-13,Active,USR0032
+USR0101,DEP003,Ava,Thomas,Ava Thomas,ava.thomas101@crmcompany.com,9612153089,Support Engineer,97728,2022-04-08,Active,USR0048
+USR0102,DEP004,John,Anderson,John Anderson,john.anderson102@crmcompany.com,9997356828,Finance Manager,139379,2022-05-17,Active,USR0023
+USR0103,DEP001,Ava,Thompson,Ava Thompson,ava.thompson103@crmcompany.com,9958851904,Sales Manager,138144,2024-02-15,Active,
+USR0104,DEP014,Lucas,Davis,Lucas Davis,lucas.davis104@crmcompany.com,9567975319,Product Analyst,64380,2021-01-22,Active,USR0041
+USR0105,DEP004,Charlotte,Smith,Charlotte Smith,charlotte.smith105@crmcompany.com,9877583839,Finance Manager,112028,2022-07-15,Active,USR0023
+USR0106,DEP006,William,White,William White,william.white106@crmcompany.com,9128955006,Software Engineer,100780,2023-12-28,Active,USR0004
+USR0107,DEP008,Sophia,Clark,Sophia Clark,sophia.clark107@crmcompany.com,9245706210,Legal Executive,40501,2022-10-22,Active,USR0022
+USR0108,DEP011,Mia,Garcia,Mia Garcia,mia.garcia108@crmcompany.com,9451492250,Admin Executive,52049,2022-04-02,Active,
+USR0109,DEP006,Daniel,White,Daniel White,daniel.white109@crmcompany.com,9398775766,Data Engineer,82118,2022-04-02,Active,USR0004
+USR0110,DEP010,Ava,Wilson,Ava Wilson,ava.wilson110@crmcompany.com,9904258674,Business Development Executive,65822,2018-03-21,Active,USR0011
+USR0111,DEP005,Liam,Johnson,Liam Johnson,liam.johnson111@crmcompany.com,9938842599,HR Manager,104694,2018-10-09,Active,USR0032
+USR0112,DEP015,Benjamin,Johnson,Benjamin Johnson,benjamin.johnson112@crmcompany.com,9121882877,CEO,212411,2020-03-27,Active,USR0012
+USR0113,DEP001,Lucas,Jones,Lucas Jones,lucas.jones113@crmcompany.com,9818825964,Sales Executive,43272,2023-04-24,Active,USR0103
+USR0114,DEP005,James,Clark,James Clark,james.clark114@crmcompany.com,9923450567,HR Executive,65476,2020-11-15,Active,USR0032
+USR0115,DEP001,Olivia,Garcia,Olivia Garcia,olivia.garcia115@crmcompany.com,9935147672,Sales Manager,129796,2019-04-15,Active,USR0103
+USR0116,DEP009,William,Moore,William Moore,william.moore116@crmcompany.com,9718257024,Procurement Executive,36682,2021-07-01,Active,USR0044
+USR0117,DEP015,Alexander,Thomas,Alexander Thomas,alexander.thomas117@crmcompany.com,9181600593,COO,273718,2020-03-23,Active,USR0012
+USR0118,DEP015,Ethan,Davis,Ethan Davis,ethan.davis118@crmcompany.com,9834717549,CEO,271382,2021-05-20,Active,USR0012
+USR0119,DEP008,Lucas,Brown,Lucas Brown,lucas.brown119@crmcompany.com,9559967386,Legal Executive,57754,2023-12-23,Active,USR0022
+USR0120,DEP002,Alexander,Anderson,Alexander Anderson,alexander.anderson120@crmcompany.com,9113585139,Marketing Executive,68158,2021-10-29,Active,USR0018
+USR0121,DEP004,Ava,Harris,Ava Harris,ava.harris121@crmcompany.com,9782454310,Finance Executive,63411,2022-01-23,Active,USR0023
+USR0122,DEP004,Mia,Jones,Mia Jones,mia.jones122@crmcompany.com,9798423334,Finance Manager,101543,2023-11-08,Active,USR0023
+USR0123,DEP012,Sarah,Lewis,Sarah Lewis,sarah.lewis123@crmcompany.com,9986625773,QA Lead,65465,2022-11-20,Active,
+USR0124,DEP006,Jack,Clark,Jack Clark,jack.clark124@crmcompany.com,9991990632,Data Engineer,81122,2020-10-02,Active,USR0004
+USR0125,DEP010,David,Wilson,David Wilson,david.wilson125@crmcompany.com,9711871397,Business Development Manager,105981,2023-03-19,Active,USR0011
+USR0126,DEP006,Lucas,Thomas,Lucas Thomas,lucas.thomas126@crmcompany.com,9448981305,Data Engineer,61880,2023-07-18,Active,USR0004
+USR0127,DEP013,William,Harris,William Harris,william.harris127@crmcompany.com,9465436049,Research Engineer,83253,2020-11-24,Active,
+USR0128,DEP013,Sarah,Lewis,Sarah Lewis,sarah.lewis128@crmcompany.com,9305145276,Data Scientist,35665,2023-10-18,Active,
+USR0129,DEP010,David,Davis,David Davis,david.davis129@crmcompany.com,9914073098,Business Development Manager,122019,2024-03-24,Active,USR0011
+USR0130,DEP009,Joseph,Harris,Joseph Harris,joseph.harris130@crmcompany.com,9199915275,Procurement Manager,119371,2018-03-12,Active,USR0044
+USR0131,DEP006,Emily,Davis,Emily Davis,emily.davis131@crmcompany.com,9428786222,Data Engineer,105336,2020-09-23,Active,USR0004
+USR0132,DEP004,Alexander,Clark,Alexander Clark,alexander.clark132@crmcompany.com,9670073085,Finance Manager,121015,2024-03-17,Active,USR0023
+USR0133,DEP003,Olivia,Jackson,Olivia Jackson,olivia.jackson133@crmcompany.com,9390894296,Support Manager,113056,2023-02-02,Active,USR0048
+USR0134,DEP001,Emily,Wilson,Emily Wilson,emily.wilson134@crmcompany.com,9438817025,Sales Executive,42907,2020-02-28,Active,USR0103
+USR0135,DEP010,James,Thompson,James Thompson,james.thompson135@crmcompany.com,9893070706,Business Development Executive,47552,2020-06-05,Active,USR0011
+USR0136,DEP011,Charlotte,Wilson,Charlotte Wilson,charlotte.wilson136@crmcompany.com,9418092217,Admin Executive,41588,2020-03-06,Active,
+USR0137,DEP013,Joseph,Anderson,Joseph Anderson,joseph.anderson137@crmcompany.com,9860229059,Research Engineer,79809,2018-02-27,Active,
+USR0138,DEP012,Liam,Jones,Liam Jones,liam.jones138@crmcompany.com,9694164665,QA Lead,37982,2018-08-12,Active,
+USR0139,DEP010,Emily,Jones,Emily Jones,emily.jones139@crmcompany.com,9716396766,Business Development Manager,96723,2018-02-20,Active,USR0011
+USR0140,DEP004,Emily,Harris,Emily Harris,emily.harris140@crmcompany.com,9297958983,Finance Manager,118866,2021-10-27,Active,USR0023
+USR0141,DEP007,Michael,Wilson,Michael Wilson,michael.wilson141@crmcompany.com,9530256336,Operations Manager,97476,2018-09-25,Active,USR0037
+USR0142,DEP003,Charlotte,Williams,Charlotte Williams,charlotte.williams142@crmcompany.com,9970957171,Support Engineer,69943,2019-09-04,Active,USR0048
+USR0143,DEP004,Ethan,Moore,Ethan Moore,ethan.moore143@crmcompany.com,9699226355,Finance Executive,51265,2019-05-01,Active,USR0023
+USR0144,DEP011,Ava,Lewis,Ava Lewis,ava.lewis144@crmcompany.com,9583736219,Admin Executive,69247,2022-04-08,Active,
+USR0145,DEP004,Mia,Moore,Mia Moore,mia.moore145@crmcompany.com,9766823010,Finance Manager,110013,2024-05-18,Active,USR0023
+USR0146,DEP002,Michael,Lewis,Michael Lewis,michael.lewis146@crmcompany.com,9384161612,Marketing Executive,48617,2020-05-14,Active,USR0018
+USR0147,DEP013,Alexander,Williams,Alexander Williams,alexander.williams147@crmcompany.com,9692697161,Research Engineer,75719,2019-12-13,Active,
+USR0148,DEP003,David,Garcia,David Garcia,david.garcia148@crmcompany.com,9840206617,Support Engineer,86772,2023-01-20,Active,USR0048
+USR0149,DEP012,Lucas,Harris,Lucas Harris,lucas.harris149@crmcompany.com,9409350265,QA Lead,37139,2020-08-06,Active,
+USR0150,DEP006,Henry,Moore,Henry Moore,henry.moore150@crmcompany.com,9176428684,IT Manager,146335,2023-02-03,Active,USR0004
+USR0151,DEP009,Alexander,Davis,Alexander Davis,alexander.davis151@crmcompany.com,9809939880,Procurement Manager,141631,2024-08-12,Active,USR0044
+USR0152,DEP014,Daniel,Jackson,Daniel Jackson,daniel.jackson152@crmcompany.com,9795392488,Product Manager,125688,2020-07-09,Active,USR0041
+USR0153,DEP011,Robert,Wilson,Robert Wilson,robert.wilson153@crmcompany.com,9278158234,Admin Executive,39679,2018-09-02,Active,
+USR0154,DEP002,Emily,Lewis,Emily Lewis,emily.lewis154@crmcompany.com,9603260608,Marketing Manager,118780,2019-05-25,Active,USR0018
+USR0155,DEP015,Henry,Moore,Henry Moore,henry.moore155@crmcompany.com,9679800791,COO,215683,2023-08-12,Active,USR0012
+USR0156,DEP013,Charlotte,White,Charlotte White,charlotte.white156@crmcompany.com,9563887247,Research Engineer,99192,2018-06-13,Active,
+USR0157,DEP015,Jack,Taylor,Jack Taylor,jack.taylor157@crmcompany.com,9345805719,CFO,183390,2019-01-10,Active,USR0012
+USR0158,DEP012,Alexander,Clark,Alexander Clark,alexander.clark158@crmcompany.com,9718740490,QA Engineer,104058,2021-01-08,Active,
+USR0159,DEP012,Michael,Garcia,Michael Garcia,michael.garcia159@crmcompany.com,9398668350,QA Lead,69010,2022-12-17,Active,
+USR0160,DEP012,William,Clark,William Clark,william.clark160@crmcompany.com,9604669821,QA Lead,67225,2019-01-09,Active,
+USR0161,DEP004,Olivia,Jackson,Olivia Jackson,olivia.jackson161@crmcompany.com,9272684373,Finance Manager,111040,2019-03-05,Active,USR0023
+USR0162,DEP013,Emma,Jackson,Emma Jackson,emma.jackson162@crmcompany.com,9973559879,Data Scientist,53888,2022-06-29,Active,
+USR0163,DEP011,Liam,Johnson,Liam Johnson,liam.johnson163@crmcompany.com,9371011200,Admin Executive,40771,2021-07-12,Active,
+USR0164,DEP009,Emma,Brown,Emma Brown,emma.brown164@crmcompany.com,9985758835,Procurement Manager,146682,2023-10-09,Active,USR0044
+USR0165,DEP003,John,Thompson,John Thompson,john.thompson165@crmcompany.com,9301415220,Support Manager,117082,2018-08-11,Active,USR0048
+USR0166,DEP008,Noah,Anderson,Noah Anderson,noah.anderson166@crmcompany.com,9916033628,Legal Manager,130986,2022-12-16,Active,USR0022
+USR0167,DEP007,Michael,Miller,Michael Miller,michael.miller167@crmcompany.com,9409268943,Operations Manager,125993,2019-06-21,Active,USR0037
+USR0168,DEP014,Mia,Harris,Mia Harris,mia.harris168@crmcompany.com,9958256589,Product Manager,91891,2024-10-29,Active,USR0041
+USR0169,DEP008,Joseph,Garcia,Joseph Garcia,joseph.garcia169@crmcompany.com,9692975437,Legal Manager,126099,2018-02-26,Active,USR0022
+USR0170,DEP005,Ava,Williams,Ava Williams,ava.williams170@crmcompany.com,9226128312,HR Executive,42435,2023-03-06,Active,USR0032
+USR0171,DEP008,Benjamin,Jones,Benjamin Jones,benjamin.jones171@crmcompany.com,9646397165,Legal Manager,136963,2021-04-10,Active,USR0022
+USR0172,DEP008,Henry,Wilson,Henry Wilson,henry.wilson172@crmcompany.com,9607042130,Legal Manager,144704,2023-05-31,Active,USR0022
+USR0173,DEP012,Joseph,White,Joseph White,joseph.white173@crmcompany.com,9743576792,QA Engineer,85138,2020-02-20,Active,
+USR0174,DEP002,Noah,Jones,Noah Jones,noah.jones174@crmcompany.com,9464938258,Marketing Executive,53104,2022-08-27,Active,USR0018
+USR0175,DEP009,Noah,Wilson,Noah Wilson,noah.wilson175@crmcompany.com,9999232921,Procurement Executive,53536,2021-05-07,Active,USR0044
+USR0176,DEP013,Ethan,Clark,Ethan Clark,ethan.clark176@crmcompany.com,9678296492,Data Scientist,44738,2023-01-04,Active,
+USR0177,DEP011,Charlotte,Anderson,Charlotte Anderson,charlotte.anderson177@crmcompany.com,9445505799,Admin Executive,59720,2023-02-09,Active,
+USR0178,DEP011,Daniel,Davis,Daniel Davis,daniel.davis178@crmcompany.com,9146865930,Admin Executive,50306,2022-08-10,Active,
+USR0179,DEP003,Emma,Harris,Emma Harris,emma.harris179@crmcompany.com,9631855083,Support Manager,115302,2019-09-16,Active,USR0048
+USR0180,DEP003,Michael,Jones,Michael Jones,michael.jones180@crmcompany.com,9572775194,Support Manager,146996,2019-02-16,Active,USR0048
+USR0181,DEP010,James,Martin,James Martin,james.martin181@crmcompany.com,9540211187,Business Development Manager,91005,2019-08-14,Active,USR0011
+USR0182,DEP014,Benjamin,Jones,Benjamin Jones,benjamin.jones182@crmcompany.com,9463527356,Product Manager,120768,2020-12-21,Active,USR0041
+USR0183,DEP002,Lucas,Thomas,Lucas Thomas,lucas.thomas183@crmcompany.com,9508031980,Marketing Executive,56532,2023-12-26,Active,USR0018
+USR0184,DEP008,Emma,Harris,Emma Harris,emma.harris184@crmcompany.com,9777703980,Legal Executive,39484,2020-08-19,Active,USR0022
+USR0185,DEP005,Alexander,Moore,Alexander Moore,alexander.moore185@crmcompany.com,9205702499,HR Executive,40923,2022-11-13,Active,USR0032
+USR0186,DEP005,Benjamin,Brown,Benjamin Brown,benjamin.brown186@crmcompany.com,9131081879,HR Manager,100902,2021-05-11,Active,USR0032
+USR0187,DEP012,Michael,Taylor,Michael Taylor,michael.taylor187@crmcompany.com,9502482554,QA Engineer,79226,2022-01-08,Active,
+USR0188,DEP003,Ava,Jones,Ava Jones,ava.jones188@crmcompany.com,9707660630,Support Engineer,94810,2022-08-15,Active,USR0048
+USR0189,DEP003,Alexander,Garcia,Alexander Garcia,alexander.garcia189@crmcompany.com,9754436820,Support Engineer,71473,2018-11-20,Active,USR0048
+USR0190,DEP009,Sophia,Lewis,Sophia Lewis,sophia.lewis190@crmcompany.com,9253671484,Procurement Executive,67615,2024-07-16,Active,USR0044
+USR0191,DEP001,Joseph,White,Joseph White,joseph.white191@crmcompany.com,9374154962,Sales Manager,106644,2023-02-26,Active,USR0103
+USR0192,DEP010,Alexander,Smith,Alexander Smith,alexander.smith192@crmcompany.com,9827579147,Business Development Manager,149061,2021-03-24,Active,USR0011
+USR0193,DEP009,Liam,Garcia,Liam Garcia,liam.garcia193@crmcompany.com,9730900313,Procurement Executive,63949,2021-11-16,Active,USR0044
+USR0194,DEP011,Emily,Jackson,Emily Jackson,emily.jackson194@crmcompany.com,9313907621,Admin Executive,64939,2021-05-22,Active,
+USR0195,DEP014,Sophia,Harris,Sophia Harris,sophia.harris195@crmcompany.com,9714097318,Product Manager,105545,2022-04-12,Active,USR0041
+USR0196,DEP007,Olivia,Clark,Olivia Clark,olivia.clark196@crmcompany.com,9123557463,Operations Manager,135827,2021-04-24,Active,USR0037
+USR0197,DEP004,Alexander,Thomas,Alexander Thomas,alexander.thomas197@crmcompany.com,9836371599,Finance Manager,90530,2024-05-07,Active,USR0023
+USR0198,DEP015,Jack,Johnson,Jack Johnson,jack.johnson198@crmcompany.com,9932945529,COO,289161,2021-03-18,Active,USR0012
+USR0199,DEP005,Joseph,Lewis,Joseph Lewis,joseph.lewis199@crmcompany.com,9766676815,HR Manager,104352,2020-02-18,Active,USR0032
+USR0200,DEP009,Sarah,Jones,Sarah Jones,sarah.jones200@crmcompany.com,9946764061,Procurement Executive,37583,2021-06-19,Active,USR0044
