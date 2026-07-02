@@ -3,6 +3,7 @@
 CREATE DATABASE CRM_Management_System;
 GO
 
+
 USE CRM_Management_System;
 GO
 
